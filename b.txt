@@ -1,1 +1,3 @@
-I am from India
+git add . //to add all changed files
+git commit -m "some text" //to  commit all added files 
+git init //used to create a new git repo for local files
